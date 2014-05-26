@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mv_business/mv_business.iml" filepath="$PROJECT_DIR$/mv_business/mv_business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mv_controller/mv_controller.iml" filepath="$PROJECT_DIR$/mv_controller/mv_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mv_data/mv_data.iml" filepath="$PROJECT_DIR$/mv_data/mv_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mv_first.iml" filepath="$PROJECT_DIR$/mv_first.iml" />
+    </modules>
+  </component>
+</project>
+
